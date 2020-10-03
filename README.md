@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [reasonance](https://www.reasonance.de).
+- 📫 Feel free to reach out to me via [mailto://manuellang183@gmail.com](mail) or [https://www.linkedin.com/in/manuel-lang/](LinkedIn).
+
 <!--
 **manuel-lang/manuel-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
