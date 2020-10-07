@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/manuel-lang)
+
 ### Hi there 👋
 
 - 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [reasonance](https://www.reasonance.de).
