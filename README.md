@@ -6,7 +6,7 @@
 
 - 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [reasonance](https://www.reasonance.de).
 
-[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-lang)](https://github.com/anuraghazra/github-readme-stats)
+![Manuel's github stats](https://github-readme-stats.vercel.app/api?username=manuel-lang&count_private=true)
 
 <!--
 **manuel-lang/manuel-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
