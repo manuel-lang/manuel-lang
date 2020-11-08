@@ -3,6 +3,8 @@
 [![Linkedin: manuel-lang](https://img.shields.io/badge/-Manuel%20Lang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lang/)](https://www.linkedin.com/in/manuel-lang/)
 ![Profile views](https://gpvc.arturio.dev/manuel-lang)
 
+<a href="https://meta.stackoverflow.com/users/5679455/mlang"><img src="https://meta.stackoverflow.com/users/flair/5679455.png?theme=dark" width="208" height="58" alt="profile for mlang at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers" title="profile for mlang at Meta Stack Overflow, Q&amp;A about the site for professional and enthusiast programmers"></a>
+
 
 - 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [reasonance](https://www.reasonance.de).
 
