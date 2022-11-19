@@ -3,7 +3,7 @@
 [![Linkedin: manuel-lang](https://img.shields.io/badge/-Manuel%20Lang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lang/)](https://www.linkedin.com/in/manuel-lang/)
 ![Profile views](https://gpvc.arturio.dev/manuel-lang)
 
-- 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [reasonance](https://www.reasonance.de).
+- 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [Reasonance](https://www.reasonance.de).
 
 <!--
 **manuel-lang/manuel-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
