@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Linkedin: manuel-lang](https://img.shields.io/badge/-Manuel%20Lang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manuel-lang/)](https://www.linkedin.com/in/manuel-lang/)
-![Profile views](https://gpvc.arturio.dev/manuel-lang)
 
 - 🔭 I'm Manuel and currently working on Machine Learning and Data Science solutions at [Reasonance](https://www.reasonance.de).
 
